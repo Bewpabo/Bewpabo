@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 😄 My nickname is *Bew* so it pronouns as *Bill* in English.
+- 🔭 I’m currently working on somthing that practice my self.
+- 🌱 I’m currently learning many things like Golang/Laravel as a backend and React as a frontend for my work.
 <!--
 **Bewpabo/Bewpabo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
