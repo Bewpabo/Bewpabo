@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 😄 My nickname is *Bew* so it pronouns as *Bill* in English.
+- 😄 My nickname is *Bew*.
 - 🔭 I’m currently working on somthing that practice my self.
 - 🌱 I’m currently learning many things like Golang/Laravel as a backend and React as a frontend for my work.
 <!--
